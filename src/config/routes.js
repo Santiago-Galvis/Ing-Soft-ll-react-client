@@ -40,7 +40,7 @@ const routesClient = [
 const routeNotFound = [
   {
     path: "*",
-    layout: LayoutAdmin,
+    layout: LayoutBasic,
     component: Notfound,
   },
 ];
