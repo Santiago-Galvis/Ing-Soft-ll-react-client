@@ -1,0 +1,21 @@
+@import "../../scss/index.scss";
+
+.menu-top-user {
+  position: absolute;
+  float: right;
+}
+
+.menu-top-user ul {
+  list-style: none;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.menu-top-user ul li {
+  float: right;
+}
+
+.menu-top-user li a {
+  padding: 0.5rem;
+  color: black;
+}
