@@ -10,6 +10,7 @@ export function minLengthValidation(inputData, minLength) {
     return false;
   }
 }
+
 export function emailValidation(inputData) {
   // eslint-disable-next-Line no-useless-escape
   const emailValid =

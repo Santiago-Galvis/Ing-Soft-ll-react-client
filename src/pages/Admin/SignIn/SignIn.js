@@ -19,7 +19,7 @@ export default function SignIn() {
             <TabPane tab={<span>Iniciar sesión</span>} key='1'>
               <Login />
             </TabPane>
-            <TabPane tab={<span>Registro</span>} key='2'>
+            <TabPane tab={<span>Registrarse</span>} key='2'>
               <Register />
             </TabPane>
           </Tabs>
